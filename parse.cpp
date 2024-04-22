@@ -21,8 +21,6 @@ void error() {
   exit(EXIT_FAILURE);
 }
 
-// Feel free to use a different data structure for the symbol table (list of
-// variables declared in the program) but you will have to adjust the code in
 // main() to print out the symbol table after a successful parse
 //*****************************************************************************
 // Symbol table
